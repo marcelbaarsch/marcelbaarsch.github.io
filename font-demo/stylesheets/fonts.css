@@ -1,9 +1,0 @@
-/* http://stackoverflow.com/questions/12144000/using-custom-fonts-using-css */
-font-face{
-    font-family: 'NewComicSans'; /*name to reference later*/
-    src: url('comic.ttf'); /*url to font*/
-}
-
-.comic{
-    font-family: 'NewComicSans';
-}
