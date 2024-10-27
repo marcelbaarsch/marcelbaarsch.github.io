@@ -19,7 +19,7 @@ Forming teams was optional. I enlisted the help of two of my co-workers who were
 
 Information about this scenario can be found on github: [nanog92-hackathon-challenges/scenario_nautobot at main · NANOG/nanog92-hackathon-challenges](https://github.com/NANOG/nanog92-hackathon-challenges/tree/main/scenario_nautobot)
 
-Nautobot is an open-source platform that's meant to be the single source of truth for network data. It's a hard fork of the [NetBox](https://netboxlabs.com/docs/netbox/en/stable/) project. The nautobot server used for this challenge appears to be a [single node in a container lab topology. ]([nanog92-hackathon-challenges/scenario_nautobot/nbhack.clab.yml at main · NANOG/nanog92-hackathon-challenges](https://github.com/NANOG/nanog92-hackathon-challenges/blob/main/scenario_nautobot/nbhack.clab.yml))
+Nautobot is an open-source platform that's meant to be the single source of truth for network data. It's a hard fork of the [NetBox](https://netboxlabs.com/docs/netbox/en/stable/) project. The nautobot server used for this challenge appears to be a [single node in a container lab topology. ](https://github.com/NANOG/nanog92-hackathon-challenges/blob/main/scenario_nautobot/nbhack.clab.yml)
 
 ## Part 1: Data Model and Web Interface
 ### Challenge 1.1: Start Nautobot
